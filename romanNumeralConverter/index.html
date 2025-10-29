@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roman Numeral Converter</title>
+    <link href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Roman Numeral Converter</h1>
+        <p class="subtitle">Convert Arabic numbers to Roman numerals</p>
+        
+        <div class="converter-box">
+            <div class="input-group">
+                <input type="number" id="number" placeholder="Enter a number (1-3999)">
+                <button id="convert-btn">Convert</button>
+            </div>
+            
+            <div id="output">Your result will appear here</div>
+        </div>
+        
+        <div class="info-box">
+            <h3>Roman Numerals Reference</h3>
+            <div class="roman-examples">
+                <div class="example">
+                    <span class="arabic">1</span>
+                    <span class="roman">I</span>
+                </div>
+                <div class="example">
+                    <span class="arabic">4</span>
+                    <span class="roman">IV</span>
+                </div>
+                <div class="example">
+                    <span class="arabic">5</span>
+                    <span class="roman">V</span>
+                </div>
+                <div class="example">
+                    <span class="arabic">9</span>
+                    <span class="roman">IX</span>
+                </div>
+                <div class="example">
+                    <span class="arabic">10</span>
+                    <span class="roman">X</span>
+                </div>
+                <div class="example">
+                    <span class="arabic">40</span>
+                    <span class="roman">XL</span>
+                </div>
+                <div class="example">
+                    <span class="arabic">50</span>
+                    <span class="roman">L</span>
+                </div>
+                <div class="example">
+                    <span class="arabic">90</span>
+                    <span class="roman">XC</span>
+                </div>
+                <div class="example">
+                    <span class="arabic">100</span>
+                    <span class="roman">C</span>
+                </div>
+                <div class="example">
+                    <span class="arabic">400</span>
+                    <span class="roman">CD</span>
+                </div>
+                <div class="example">
+                    <span class="arabic">500</span>
+                    <span class="roman">D</span>
+                </div>
+                <div class="example">
+                    <span class="arabic">900</span>
+                    <span class="roman">CM</span>
+                </div>
+                <div class="example">
+                    <span class="arabic">1000</span>
+                    <span class="roman">M</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
