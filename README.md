@@ -9,3 +9,7 @@
 
 ## Tribute Page
 <img width="404" height="857" alt="image" src="https://github.com/user-attachments/assets/5cb2beeb-9238-4470-84eb-6b9976924572" />
+
+## Technical Documentation Page
+<img width="1240" height="850" alt="image" src="https://github.com/user-attachments/assets/a77d25f0-4687-4ae3-ae90-35f06605dca8" />
+
