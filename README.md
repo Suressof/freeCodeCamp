@@ -6,3 +6,6 @@
 
 ## Roman Numeral Converter
 <img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/f638ae14-f44b-4988-b6a6-e84a41256771" />
+
+## Tribute Page
+<img width="404" height="857" alt="image" src="https://github.com/user-attachments/assets/5cb2beeb-9238-4470-84eb-6b9976924572" />
